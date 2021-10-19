@@ -1,0 +1,11 @@
+<h2>Мои хобби</h2>
+ 
+  <ol>
+        <li>Auto</li>
+        <li>Moto</li>
+  </ol>
+
+ <hr>
+  <h2>New courses</h2>
+        <a href="courses.html">Посмотреть список</a>
+    <hr>
