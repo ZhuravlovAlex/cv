@@ -11,6 +11,18 @@ body {
     font: normal 16px 'Roboto', sans-serif;
 }
 
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+}
+
 .avatar {
     width: 250px;
     border-radius: 28px;
@@ -34,13 +46,13 @@ body {
 
 }
 
-.social {
+/*.social {
     background: lavender;
 
     padding: 15px;
     /*padding: 15px 20px 25px 30px;*/
 
-    border: 5px solid red;
+    /*border: 5px solid red;
     border-bottom-style: dotted;
     border-top-width: 15px;
 
@@ -48,11 +60,14 @@ body {
     margin-right: 25px;
     margin-bottom: 30px;
     margin-left: 25px;
-}
+}*/
 
-.box-model > div {
+/*.box-model > div {
     background: #000;
     height: 200px;
     width: 25%;
+    float: left;
+    border: 5px solid red;
+    box-sizing: border-box;
 
-}
+}*/

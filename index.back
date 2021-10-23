@@ -9,3 +9,10 @@
   <h2>New courses</h2>
         <a href="courses.html">Посмотреть список</a>
     <hr>
+
+    <div class="box-model"> <!-- временный бокс -->
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+      </div>
