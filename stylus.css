@@ -33,7 +33,16 @@ a:visited {
 }
 
 .info {
+    display: flex;
     margin-bottom: 20px;
+}
+
+.info-text {
+    margin-left: 40px;
+}
+
+.info-text h4 {
+    margin-bottom: 10px;
 }
 
 .info p {
@@ -48,9 +57,9 @@ a:visited {
 
             /* Box Model */
 .container {
-    max-width: 750px;
+    max-width: 800px;
     margin: auto;
-
+    padding-top: 30px;
 }
 
 /*.social {
